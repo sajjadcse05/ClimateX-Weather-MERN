@@ -1,6 +1,6 @@
 # ClimateX- Real-Time Climate Information
 
-** limateX** is a weather application that provides real-time updates, forecasts, and detailed weather metrics.
+** ClimateX** is a weather application that provides real-time updates, forecasts, and detailed weather metrics.
 
 ## 🚀 Key Features
  
